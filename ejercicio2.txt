@@ -1,0 +1,3 @@
+Si instanciamos una clase y posteriormente leemos o escribimos una propiedad 
+no existente previamente, esta propiedad se añade ¿a la clase, al objeto o a todos los objetos
+de esta misma clase? Justifica la respuesta.
